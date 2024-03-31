@@ -9,10 +9,14 @@ I'm <b>Randeep</b>, a student and <em>Cyber Security enthuiast</em> & love for a
 ## More About Me 👨‍🚀
 
 🏎️ Motorsports Fan #CL16
-:100: Irrational Overthinker
-:star: Stargazing is more than a hobby
-:apple: Beginner mindset (**open to learning**)
-:sparkles: #stupid #idiot (**i see the world as magical**)
+
+🤔 Irrational Overthinker
+
+🌃 Stargazing is more than a hobby
+
+🍏 Beginner mindset (**open to learning**)
+
+‼️ #stupid #idiot (**i see the world as magical**)
 
 
 >*I love to race in where angels fear to tread. Committed to face fears & overcome them. In order to escape any feeling of being stuck, i often travel.*
