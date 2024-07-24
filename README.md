@@ -3,7 +3,7 @@
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You. :blush:
 
 <img src="https://github.com/ranpy13/ranpy13/blob/main/banner2.png" alt="banner that says ranpy13 - code newbie always. content curator. contributing for good alongside an motorsport fan"> 
-I'm <b>Randeep</b>, a student and <em>Cyber Security enthuiast</em> & love for anything Tech. <i>Python</i> is my first language, exploring the front & back-end of the web, can't be caught in the middle. :wink: Navigating Machine Learnign and Artificial Intelligence. <i>Speed freak, chocolate, sports, and music.</i>
+I'm <b>Randeep</b>, a student and <em>Cyber Security enthusiast</em> & love for anything Tech. <i>Python</i> is my first language, exploring the front & back-end of the web, can't be caught in the middle. :wink: Navigating Machine Learnign and Artificial Intelligence. <i>Speed freak, chocolate, sports, and music.</i>
 
 
 ## More About Me 👨‍🚀
